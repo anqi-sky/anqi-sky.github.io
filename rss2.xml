@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一些平时学习笔记以及搜集到的好的文章</description>
-    <pubDate>Mon, 22 Jan 2018 02:58:52 GMT</pubDate>
+    <pubDate>Tue, 23 Jan 2018 07:20:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,11 +18,11 @@
       <pubDate>Mon, 22 Jan 2018 02:55:44 GMT</pubDate>
       <description>
       
-        &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;Hello World!&lt;/h1&gt;&lt;h2 id=&quot;Anqi-2018&quot;&gt;&lt;a href=&quot;#Anqi-2
+        &lt;h1 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;&lt;em&gt;Hello World!&lt;/em&gt;&lt;/h1&gt;&lt;h2 id=&quot;Anqi-2018&quot;&gt;&lt;a href
       
       </description>
       
-      <content:encoded><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><h2 id="Anqi-2018"><a href="#Anqi-2018" class="headerlink" title="Anqi 2018"></a>Anqi 2018</h2>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a><em>Hello World!</em></h1><h2 id="Anqi-2018"><a href="#Anqi-2018" class="headerlink" title="Anqi 2018"></a>Anqi 2018</h2><h2 id="我自己来试试"><a href="#我自己来试试" class="headerlink" title="我自己来试试"></a>我自己来试试</h2>]]></content:encoded>
       
       <comments>http://anqi-sky.github.io/hello-world.html#disqus_thread</comments>
     </item>
