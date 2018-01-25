@@ -8,8 +8,20 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一些平时学习笔记以及搜集到的好的文章</description>
-    <pubDate>Thu, 25 Jan 2018 02:28:51 GMT</pubDate>
+    <pubDate>Thu, 25 Jan 2018 06:37:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>不一样的烟火</title>
+      <link>http://anqi-sky.github.io/null.html</link>
+      <guid>http://anqi-sky.github.io/null.html</guid>
+      <pubDate>Thu, 25 Jan 2018 06:37:53 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>http://anqi-sky.github.io/null.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Hello World</title>
