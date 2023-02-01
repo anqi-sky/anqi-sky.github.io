@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://anqi-sky.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/404.html</loc>
+    
+    <lastmod>2023-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/cn/nepal/</loc>
+    
+    <lastmod>2018-01-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://anqi-sky.github.io/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://anqi-sky.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/tags/%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://anqi-sky.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://anqi-sky.github.io/categories/%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
