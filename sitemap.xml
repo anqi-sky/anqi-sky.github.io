@@ -60,7 +60,7 @@
 
   <url>
     <loc>https://anqi-sky.github.io/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,28 +68,21 @@
   
   <url>
     <loc>https://anqi-sky.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-02-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://anqi-sky.github.io/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://anqi-sky.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://anqi-sky.github.io/tags/%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <loc>https://anqi-sky.github.io/tags/%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -98,14 +91,14 @@
   
   <url>
     <loc>https://anqi-sky.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://anqi-sky.github.io/categories/%E6%B8%B8%E8%AE%B0/</loc>
-    <lastmod>2023-02-03</lastmod>
+    <lastmod>2023-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
